@@ -43,7 +43,7 @@ O gráfico de dispersão gerado pelo script apresenta os dados reais em azul e a
 
 ![Gráfico de Dispersão com Regressão Linear](reg.png)
 
-Substitua "caminho_para_imagem.png" pelo caminho real da imagem gerada, se desejar armazená-la.
+
 
 ## Exemplo de Saída
 
